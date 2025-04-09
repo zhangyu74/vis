@@ -32,8 +32,5 @@ yarn-error.log*
 # ipynb
 **/*.ipynb_checkpoints/
 
-/vit/code/*
-
-!/vit/code/*.ipynb
-
-!/vit/code/
+# 忽略该目录下的目录
+udl/ELBO与KL散度/**/
