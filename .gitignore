@@ -35,3 +35,4 @@ yarn-error.log*
 # 忽略该目录下的目录
 udl/ELBO与KL散度/**/
 udl/Wasserstein距离及约束条件/**/
+udl/GAN与VAE结构靠重建细节靠对抗/**/
